@@ -1,0 +1,1 @@
+# Yapay Zeka Kullanım Beyanı 
