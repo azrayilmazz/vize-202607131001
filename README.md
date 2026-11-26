@@ -8,8 +8,6 @@
 # Çalıştırma Adımları :
 Bu proje hafta 3-5 vize kurallarına ve konusuna göre hazırlanmıştır.
 
-##Veri Modeli
-
 ## Veri Modeli
 
 ### 2.1 Güncel ERD
@@ -61,7 +59,8 @@ erDiagram
     LOGISTICS_ROUTES ||--o{ LOGISTICS_SHIPMENTS : "has"
     LOGISTICS_SHIPMENTS ||--o{ SUPPORT_QUERIES : "relates_to"
     SUPPORT_QUERIES ||--o{ LLM_CALL_LOGS : "triggers"
-    RAG_DOCUMENTS ||--o{ LLM_CALL_LOGS : "grounds"
+    RAG_DOCUMENTS ||--o{ LLM_CALL_LOGS : "grounds 
+```
 
 ### 2.2 Normalizasyon notu
 
