@@ -13,9 +13,9 @@
 
 **Kullandığım veritabanı:** `robot_fleet`
 
-**PR bağlantısı:** (https://github.com/azrayilmazz/vize-202607131001/pull/5)
+**PR bağlantısı:** https://github.com/azrayilmazz/vize-202607131001/pull/5
 
-**Commit sayısı:** 7
+**Commit sayısı:** 8
 
 ---
 
