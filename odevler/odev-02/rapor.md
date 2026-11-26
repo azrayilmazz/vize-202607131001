@@ -5,17 +5,17 @@
 
 ---
 
-**Ödev no:** Ödev ____     **Hafta:** ____     **Tarih:** ____ / ____ / 2026
+**Ödev no:** Ödev 02    **Hafta:** ____     **Tarih:** 26 / 11 / 2026
 
-**Ad Soyad:** ______________________________  **Öğrenci No:** ______________
+**Ad Soyad:** Elif Azra Yılmaz  **Öğrenci No:** 202607131001
 
-**Program:** ☐ Yapay Zeka Operatörlüğü  ☐ Robotik ve Yapay Zeka
+**Program:** Yapay Zeka Operatörlüğü
 
-**Kullandığım veritabanı:** ☐ `llm_ops`  ☐ `robot_fleet`
+**Kullandığım veritabanı:** ☐ `robot_fleet`
 
-**PR bağlantısı:** `https://github.com/` ______________________________________
+**PR bağlantısı:** https://github.com/azrayilmazz/vize-202607131001.git___________________________________
 
-**Commit sayısı:** ______
+**Commit sayısı:** 
 
 ---
 
