@@ -15,7 +15,7 @@
 
 **PR bağlantısı:** https://github.com/azrayilmazz/vize-202607131001/pull/5
 
-**Commit sayısı:** 5
+**Commit sayısı:** 6
 
 ---
 

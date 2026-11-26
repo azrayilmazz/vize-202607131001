@@ -59,7 +59,7 @@ erDiagram
     LOGISTICS_ROUTES ||--o{ LOGISTICS_SHIPMENTS : "has"
     LOGISTICS_SHIPMENTS ||--o{ SUPPORT_QUERIES : "relates_to"
     SUPPORT_QUERIES ||--o{ LLM_CALL_LOGS : "triggers"
-    RAG_DOCUMENTS ||--o{ LLM_CALL_LOGS : "grounds 
+    RAG_DOCUMENTS ||--o{ LLM_CALL_LOGS : grounds 
 ```
 
 ### 2.2 Normalizasyon notu
